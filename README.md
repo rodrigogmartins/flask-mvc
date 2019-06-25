@@ -9,7 +9,7 @@ Modelo criado para seminário sobre organização de pastas e blueprints da disc
 - `cd NOME_DA_PASTA`
 - `source /bin/activate`
 - *Para desativar (parar) o ambiente virtual use:* `deactivate`
-- *Para remover tudo que foi instalado use (**fora da pasta (usar o comando `cd ..`)**):* `rm -r NOME_DA_PASTA`
+- *Para remover tudo que foi instalado use, **fora da pasta (usar o comando `cd ..`)**, o comando:* `rm -r NOME_DA_PASTA`
 #### Copiando modelo MVC:
 - `git clone https://github.com/rodrigogmartins/flask-mvc.git`
 - `cd MVC`
@@ -21,6 +21,6 @@ Modelo criado para seminário sobre organização de pastas e blueprints da disc
 #### Rodando o o programa:
 - `python runserver.py`
 ##### Autores:
-- *** Rodrigo Martins ***
-- *** João Pedro Prestes ***
-- *** Luis Henrique Jacinto ***
+*** Rodrigo Martins ***
+*** João Pedro Prestes ***
+*** Luis Henrique Jacinto ***
