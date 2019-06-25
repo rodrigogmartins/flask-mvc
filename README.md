@@ -21,6 +21,6 @@ Modelo criado para seminário sobre organização de pastas e blueprints da disc
 #### Rodando o o programa:
 - `python runserver.py`
 ##### Autores:
-- `*** Rodrigo Martins ***`
-- `*** João Pedro Prestes ***`
-- `*** Luis Henrique Jacinto ***`
+- `* Rodrigo Martins *`
+- `* João Pedro Prestes *`
+- `* Luis Henrique Jacinto *`
