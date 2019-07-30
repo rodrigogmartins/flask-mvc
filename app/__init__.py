@@ -8,4 +8,3 @@ app.debug = True
 
 from app.controllers import *
 
-

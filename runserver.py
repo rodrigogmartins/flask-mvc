@@ -3,9 +3,16 @@
 import os
 from app import app
 from flask import Blueprint
-from app.controllers.blueprints.exemplo.hello_bp import cobaia_bp
+from flask import redirect, url_for
+from app.controllers.home_bp import home_bp
+from app.controllers.printer_bp import printer_bp
 
-app.register_blueprint(cobaia_bp)
+app.register_blueprint(home_bp)
+app.register_blueprint(printer_bp)
+
+@app.route('/')
+def index():
+    return redirect(home_bp.url_prefix)
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 8080))
