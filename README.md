@@ -18,7 +18,7 @@ Modelo criado para seminário sobre organização de pastas e blueprints da disc
 - `pip install -r requirements.txt`
 *Caso queira adicionar novas dependências não instaladas basta acessar o arquivo **requirements.txt** e colocar o nome da nova dependência*
 
-*Para instalar dependências previamente instaladas a pasta **requirements.txt** rode:*
+*Para instalar dependências, previamente instaladas, a pasta **requirements.txt** rode:*
 - `pip freeze > requirements.txt`
 *Após basta rodar os 3 comandos listados anteriormente.*
 #### Rodando o o programa:
