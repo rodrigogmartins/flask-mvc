@@ -3,13 +3,12 @@ Modelo criado para seminário sobre organização de pastas e blueprints da disc
 
 #### Instalando Virtualelv:
 - `sudo pip3 install virtualenv`
-- `mkdir NOME_DA_PASTA`
+- `mkdir venv`
 - `which python3`
-- `virtualenv --python='/caminho/retornado/python3' NOME_DA_PASTA`
-- `cd NOME_DA_PASTA`
-- `source bin/activate`
+- `virtualenv --python='/caminho/retornado/python3' venv`
+- `source venv/bin/activate`
 - *Para desativar (parar) o ambiente virtual use:* `deactivate`
-- *Para remover tudo que foi instalado use, **fora da pasta (usar o comando `cd ..`)**, o comando:* `rm -r NOME_DA_PASTA`
+- *Para remover tudo que foi instalado use o comando:* `rm -r venv`
 #### Copiando modelo MVC:
 - `git clone https://github.com/rodrigogmartins/flask-mvc.git`
 - `cd MVC`
