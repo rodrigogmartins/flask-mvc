@@ -1,7 +1,7 @@
 ## Estrutura de projeto seguindo o padrão MVC em python usando o framework Flask
 Modelo criado para seminário sobre organização de pastas e blueprints da disciplina de Desenvolvimento de Software II.
 
-#### Instalando Virtualelv:
+#### Instalando Virtualenv:
 - `sudo pip3 install virtualenv`
 - `mkdir venv`
 - `which python3`
