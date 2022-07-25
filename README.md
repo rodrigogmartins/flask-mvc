@@ -22,8 +22,3 @@ Modelo criado para seminário sobre organização de pastas e blueprints da disc
 *Após basta rodar os 3 comandos listados anteriormente.*
 #### Rodando o o programa:
 - `python runserver.py`
-
-##### Autores:
-- Rodrigo Martins,
-- João Pedro Prestes,
-- Luis Henrique Jacinto.
